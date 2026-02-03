@@ -1,0 +1,1 @@
+This case study presents a series of A/B experiments on Product Detail Pages designed to reduce purchase friction and improve add-to-cart conversion, evaluating changes such as sticky add-to-cart placement and photo-grid layout optimization while measuring conversion lift, user experience trade-offs, and device-specific impacts to inform scalable PDP optimization decisions.
